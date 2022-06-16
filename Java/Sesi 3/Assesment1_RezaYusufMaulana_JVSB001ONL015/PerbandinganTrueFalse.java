@@ -1,0 +1,22 @@
+package Assesment1_RezaYusufMaulana_JVSB001ONL015;
+
+public class PerbandinganTrueFalse {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 8;
+        int c = 12;
+        int d = 5;
+
+        System.out.println("Tes ke 1 = " + (a > b));
+        System.out.println("Tes ke 2 = " + (a < c));
+        System.out.println("Tes ke 3 = " + (a >= b));
+        System.out.println("Tes ke 4 = " + (d <= b));
+        System.out.println("Tes ke 5 = " + (a%b == c%d));
+        System.out.println("Tes ke 6 = " + (a != b));
+        System.out.println("Tes ke 7 = " + (d > b));
+        System.out.println("Tes ke 8 = " + (a <= d));
+        System.out.println("Tes ke 9 = " + (a == b));
+        System.out.println("Tes ke 10 = " + (a%c != b%d));
+
+    }
+}
