@@ -8,7 +8,7 @@ public class Latihan4 {
     Scanner scan = new Scanner(System.in);
 
     System.out.println("==================================");
-    System.out.println("======PERAMAL TAHUN KABISAT=======");
+    System.out.println("===PERAMAL TAHUN KABISAT REZA=====");
     System.out.println("==================================");
 
     System.out.print("Masukkan tahun : ");
