@@ -17,6 +17,11 @@ public class Latihan1 {
         // array[1] = scan.nextInt();
         // System.out.println("Masukkan Bilangan ketiga");
         // array[2] = scan.nextInt();
+
+
+        //ini untuk menghitung indeks terbesar dan indeks terkceil
+        //logikanya adalah dengan membandingkan nilai pertama dengan nilai yang lain
+        //hingga dapat terlihat
         for (int i = 0; i< array.length; i++){
             System.out.println("Masukan Bilangan ke-"+i+": ");
             array[i] = scan.nextInt();}
