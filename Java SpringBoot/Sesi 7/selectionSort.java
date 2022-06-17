@@ -37,7 +37,7 @@ public class selectionSort {
             boolean tukar = false;
             int index = 0;
             int min = data[x];
-            String pesan = " Tidak ada Pertukaran Data nih";
+            String pesan = "Tidak ada Pertukaran Data nih,";
             for(int y = x+1; y<jmlh_data; y++)
             {
                 if(min > data [y])
@@ -62,5 +62,6 @@ public class selectionSort {
             System.out.println("");
             System.out.println(pesan+"\n");
         }
+        scan.close();
     }
 }
