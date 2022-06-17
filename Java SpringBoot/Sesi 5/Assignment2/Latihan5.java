@@ -3,31 +3,48 @@ import java.util.Scanner;
 
     public class Latihan5{
         public static void main(String[] args) {
+            //inisialisasi variabel
             int barangIn;
             int kodeBarang;
+
+            //inisialisasi array 1 dimensi dengan isi data 5 array
             int [] qty = new int[5] ;
             int [] subTotal = new int[5] ;
             int total=0;
-            String[][] meja = new String[2][3];
+
+            //inisialisasi scanner
             Scanner scan = new Scanner(System.in);
+
+            //cetak tampilan program java
             System.out.println("==================================");
             System.out.println("==Program Java Tentang Penjualan==");
             System.out.println("==================================");
+
+            //input jumlah beli
             System.out.print("Masukan Jumlah Beli : ");
             barangIn = scan.nextInt();
+
+            //perulangan untuk menampilkan dan input kode barang
             for (int i=1; i<=barangIn; i++){
                 System.out.print("Masukan Kode Barang ke-"+i+": ");
                 kodeBarang = scan.nextInt();
                 System.out.print("Masukan QTY Barang ke-"+i+": ");
                 qty [i] = scan.nextInt();
             }
+
+            //proses untuk menghitung harga barang+diskon
             subTotal [1] = (899000+(899000*10/100))*qty[1];
             subTotal [2] = (246000+(246000*5/100))*qty[2];
             subTotal [3] = (136000+(136000*0/100))*qty[3];
             subTotal [4] = (267999+(267999*20/100))*qty[4];
+
+            //ini untuk menghitung subtotal belanjaan dengan cara menambahkan seluruh 
+            //subtotal [1] hingga subtotal [4] hingga menjadi total
             for (int o=1; o<5; o++){
                 total = total + subTotal[o];
             }
+
+            //cetak hasil
             System.out.println("========================================");
 
             System.out.println("No |     Nama Barang    |     Harga   | QTY | DISKON | Sub Total");
