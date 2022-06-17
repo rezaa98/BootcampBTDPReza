@@ -14,7 +14,7 @@ public class PersegiPanjang extends BangunDatar{
     double keliling(){
         double keliling = ((2*panjang)+(2*lebar));
         System.out.println("Keliling Persegi Panjang: "+keliling);
-        System.out.println("x");
+        System.out.println(" ");
         return keliling;
     }
 }

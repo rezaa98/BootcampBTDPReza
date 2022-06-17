@@ -17,7 +17,7 @@ abstract class Manusia {
 class Cowok extends Manusia {
     @Override
     protected void nyanyiLaguGes() {
-        System.out.println("Boy Sing, yume naraba dorehodo");
+        System.out.println("Boy Sing, Yu me naraba dorehodo");
     }
 }
 
