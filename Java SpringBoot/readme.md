@@ -48,7 +48,7 @@ Happy Learning all :)</p>
 #### <a href="https://github.com/rezaa98/BootcampBTDPReza/tree/main/Java%20SpringBoot/Sesi%204">Sesi 4 = Belajar Array</a>
 #### <a href="https://github.com/rezaa98/BootcampBTDPReza/tree/main/Java%20SpringBoot/Sesi%205">Sesi 5 = Belajar terkait Encapsulasi, Inheritance, dan Polymorpism
 </a>
+
 #### <a href="https://github.com/rezaa98/BootcampBTDPReza/tree/main/Java%20SpringBoot/Sesi%206">Sesi 6 = Config GIT</a>
 
-#### 
-<a href="https://github.com/rezaa98/BootcampBTDPReza/tree/main/Java%20SpringBoot/Sesi%207">Sesi 7 = Belajar Algoritma BinarySearch dan SelectionSearch</a>
+#### <a href="https://github.com/rezaa98/BootcampBTDPReza/tree/main/Java%20SpringBoot/Sesi%207">Sesi 7 = Belajar Algoritma BinarySearch dan SelectionSearch</a>
