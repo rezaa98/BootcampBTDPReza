@@ -42,10 +42,10 @@ Happy Learning all :)</p>
     jika berhasil maka akan muncul file dengan nama "nama_file.class"
 
 ### Materi Selama Bootcamp
-#### Sesi 1 = Config Laptop serta IDE Java
-#### Sesi 2 = Belajar Operator pada java 
-#### Sesi 3 = Belajar Perulangan
-#### Sesi 4 = Belajar Array
+#### <a href="https://github.com/rezaa98/BootcampBTDPReza/tree/main/Java%20SpringBoot/Sesi%201">Sesi 1 = Config Laptop serta IDE Java</a>
+#### <a href="https://github.com/rezaa98/BootcampBTDPReza/tree/main/Java%20SpringBoot/Sesi%202">Sesi 2 = Belajar Operator pada java</a> 
+#### <a href="https://github.com/rezaa98/BootcampBTDPReza/tree/main/Java%20SpringBoot/Sesi%203">Sesi 3 = Belajar Perulangan</a>
+#### <a href="https://github.com/rezaa98/BootcampBTDPReza/tree/main/Java%20SpringBoot/Sesi%204">Sesi 4 = Belajar Array</a>
 #### Sesi 5 = Belajar terkait Encapsulasi, Inheritance, dan Polymorpism
 #### Sesi 6 = Config GIT
 #### Sesi 7 = Belajar Algoritma BinarySearch dan SelectionSearch
