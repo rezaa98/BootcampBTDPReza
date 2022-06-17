@@ -11,9 +11,14 @@ public class Latihan4 {
     System.out.println("===PERAMAL TAHUN KABISAT REZA=====");
     System.out.println("==================================");
 
+    //input tahun
     System.out.print("Masukkan tahun : ");
     tahun = scan.nextInt();
 
+    //logikanya
+    //Tahun kabisat itu tahun yang habis dibagi 4
+    //tapi ga termasuk yang kelipatan 100 karena bukan kabisat
+    //jadi makenya modulo
     if (tahun % 400 == 0) {
       System.out.print(tahun + " Merupakan Tahun Kabisat\n");
     } else if (tahun % 100 == 0) {
