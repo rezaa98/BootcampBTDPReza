@@ -1,13 +1,13 @@
-package Anak;
+public class Driver {
 
-class Driver {
-    public static void main(String[] args) {
-        AnakUmur1Tahun i = new AnakUmur1Tahun();
-
-        // bentuk 2 (class lain)
-        induk a1 = new AnakUmur1Tahun();
-
-        // bentuk 3 (interface)
-        AktivitasPagi a1 = new AnakUmur1Tahun();
-    }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		AnakUmur1Tahun i = new AnakUmur1Tahun();
+		i.anakSiapa();
+		i.makan();
+		Induk a1 = new AnakUmur1Tahun();
+		a1.minum();
+		InterfaceAnakUmur1Tahun a11 = new AnakUmur1Tahun();
+		a11.hobiAnak();
+	}
 }
