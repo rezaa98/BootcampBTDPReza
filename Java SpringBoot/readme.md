@@ -16,7 +16,9 @@ Happy Learning all :)</p>
 
 #### <a href="https://github.com/rezaa98/BootcampBTDPReza/tree/main/Java%20SpringBoot/Sesi%207">Sesi 7 = Belajar Algoritma BinarySearch dan SelectionSearch</a>
 
-<br></br>
+<br> 
+-----------------------------------------
+</br>
 
 ## Instalasi Java di Windows
 1. download JDK versi 17
