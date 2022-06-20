@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user id="1">
+		<id>32</id>
+		<name>Uzumaki Naruto</name>
+		<gender>Male</gender>
+		<role>HOKAGE</role>
+	</user>
+	<user id="11">
+		<id>12</id>
+		<name>Borutod</name>
+		<gender>Female</gender>
+		<role>Genin</role>
+	</user>
+	<user id="111">
+		<id>32</id>
+		<name>Sakura</name>
+		<gender>Male</gender>
+		<role>Head Hospital</role>
+	</user>
+	<user id="1111">
+		<id>32</id>
+		<name>Sasuke</name>
+		<gender>Male</gender>
+		<role>Teacher and Guardian</role>
+	</user>
+</users>

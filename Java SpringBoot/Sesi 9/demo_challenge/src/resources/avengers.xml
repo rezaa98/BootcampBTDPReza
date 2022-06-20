@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user id="1">
+		<firstname>Doctor</firstname>
+		<lastname>Strange</lastname>
+	</user>
+	<user id="2">
+		<firstname>Tonny</firstname>
+		<lastname>Stark</lastname>
+	</user>
+	<user id="3">
+		<firstname>Ant</firstname>
+		<lastname>Man</lastname>
+	</user>
+	<user id="4">
+		<firstname>Thanos</firstname>
+		<lastname>New Version</lastname>
+	</user>
+	<user id="9">
+		<firstname>Scarlet</firstname>
+		<lastname>Witch</lastname>
+	</user>
+</users>

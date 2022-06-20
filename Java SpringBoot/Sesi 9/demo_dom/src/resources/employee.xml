@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee id="9">
+		<firstname>Doctor</firstname>
+		<lastname>Strange</lastname>
+		<location>Wakandah</location>
+	</employee>
+	<employee id="99">
+		<firstname>Tonny </firstname>
+		<lastname>Stark</lastname>
+		<location>Dunia Masa Depan</location>
+	</employee>
+	<employee id="999">
+		<firstname>Scarlet</firstname>
+		<lastname>Witch</lastname>
+		<location>Dark Hold Domain </location>
+	</employee>
+</employees>
