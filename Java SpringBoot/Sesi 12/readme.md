@@ -18,6 +18,8 @@ select count(pnumber) from project where dnum = 2;
 
 e) Hitung total dan rata-rata salary dari setiap departemen ?
 Syntax : 
+
+
 ===========================================================
 
 f) Banyaknya employee dari setiap department dan urutkan berdasarkan employee terbanyak ? 
