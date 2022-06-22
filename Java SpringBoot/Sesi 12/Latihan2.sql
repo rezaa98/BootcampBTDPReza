@@ -60,7 +60,7 @@ Employee(SSN));
 
 INSERT INTO Employee VALUES('E001', 'Naruto', null, 'Uzumaki', '12-Jan-1987','BATENG', 'M', 4000000,
 null, 1);
-INSERT INTO Employee VALUES('E002','Sasuke',null,'Uchiha','15-Feb-1987', 'BARA','F',4000000,null,2);
+INSERT INTO Employee VALUES('E002','Hinata',null,'Hyugaa','15-Feb-1987', 'BARA','F',4000000,null,2);
 INSERT INTO Employee VALUES('E003','Sakura',null,'Haruno','23-Mar-1987',
 'BATENG','F',4000000,null,3);
 INSERT INTO Employee VALUES('E004','Kakashi',null,'Hatake','21-Jan-1987',
@@ -69,15 +69,15 @@ INSERT INTO Employee VALUES('E005','Tsunade',null,'Hokage','16-May-1987',
 'BALEBAK','F',3500000,'E001',1);
 INSERT INTO Employee VALUES('E006','Yamanaka',null,'Ino','09-Dec-1987',
 'BADONENG','F',3500000,'E001',1);
-INSERT INTO Employee VALUES('E007','Rifki','Y','Haidar','02-Aug-1987',
+INSERT INTO Employee VALUES('E007','Kiba','Y','Yusuke','02-Aug-1987',
 'BATENG','M',3000000,'E001',1);
-INSERT INTO Employee VALUES('E008','Muhammad','A','Rosyidi','22-Jun-1987',
+INSERT INTO Employee VALUES('E008','Yondaime','A','Hokage','22-Jun-1987',
 'PERUMDOS','M',2750000,'E001',1);
-INSERT INTO Employee VALUES('E009','Ferry',null,'Pratama','11-Jul-1987',
+INSERT INTO Employee VALUES('E009','Boruto ',null,'Uzumaki','11-Jul-1987',
 'BARA','M',3000000,'E002',2);
-INSERT INTO Employee VALUES('E010','Andi',null,'Sasmita','15-Feb-1987',
+INSERT INTO Employee VALUES('E010','Sarada',null,'Uchina','15-Feb-1987',
 'BATENG','M',3000000,'E002',2);
-INSERT INTO Employee VALUES('E011','Yuhan','A','Kusuma','16-Mar-1987',
+INSERT INTO Employee VALUES('E011','Kushina','A','Uzumaki','16-Mar-1987',
 'BARA','M',2500000,'E002',2);
 INSERT INTO Employee VALUES('E012','Ferdian',null,'Feisal','23-Mar-1987',
 'BATENG','M',2000000,'E002',2);
@@ -95,10 +95,10 @@ INSERT INTO Department VALUES(2,'FINANCE','E002','27-Feb-2003');
 INSERT INTO Department VALUES(3,'HUMAS','E003','30-May-2006');
 INSERT INTO Department VALUES(4,'PRODUKSI','E004','08-Mar-2005');
 
-INSERT INTO Dept_Locations VALUES(1,'Darmaga');
-INSERT INTO Dept_Locations VALUES(3,'Darmaga');
-INSERT INTO Dept_Locations VALUES(2,'Darmaga');
-INSERT INTO Dept_Locations VALUES(4,'Baranang Siang');
+INSERT INTO Dept_Locations VALUES(1,'Konoha');
+INSERT INTO Dept_Locations VALUES(3,'Konoha');
+INSERT INTO Dept_Locations VALUES(2,'Konoha');
+INSERT INTO Dept_Locations VALUES(4,'Sunagakure');
 
 
 INSERT INTO Project VALUES(1,'AAA','Bogor',1);
@@ -135,8 +135,8 @@ INSERT INTO Works_On VALUES('E010',3,78);
 INSERT INTO Works_On VALUES('E011',1,68);
 INSERT INTO Works_On VALUES('E011',3,88);
 
-INSERT INTO Dependent VALUES('E001','Rita','F','18-Sep-2005','DAUGHTER');
-INSERT INTO Dependent VALUES('E001','Doni','M','09-Jan-2007','SON');
+INSERT INTO Dependent VALUES('E001','Hinata','F','18-Sep-2005','DAUGHTER');
+INSERT INTO Dependent VALUES('E001','Naruto','M','09-Jan-2007','SON');
 INSERT INTO Dependent VALUES('E002','Wawan','M','23-Oct-1984','HUSBAND');
 INSERT INTO Dependent VALUES('E002','Roy','M','15-Dec-2006','SON');
 INSERT INTO Dependent VALUES('E003','Roni','M','23-AUG-1985','HUSBAND');

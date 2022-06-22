@@ -13,8 +13,8 @@ public class App {
         Transaction tx = session.beginTransaction();
         AddressBook emp = new AddressBook();
         emp.setId(1);
-        emp.setName("arif");
-        emp.setAddress("depok");
+        emp.setName("Reza");
+        emp.setAddress("Kalimantan");
         session.save(emp);
         tx.commit();
     }
