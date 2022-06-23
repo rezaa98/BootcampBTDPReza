@@ -1,21 +1,20 @@
-package testhibernate1;
+public class Member {
+    private String username;
+    private String password;
 
-import org.hibernate.Session;
-import org.hibernate.SessionFactory;
-import org.hibernate.Transaction;
-import org.hibernate.cfg.AnnotationConfiguration;
-import testhibernate1.AddressBook;
+    public String getPassword() {
+        return password;
+    }
 
-public class App {
-    public static void main(String[] args) {
-        SessionFactory sessionFactory = new AnnotationConfiguration().configure().buildSessionFactory();
-        Session session = sessionFactory.getCurrentSession();
-        Transaction tx = session.beginTransaction();
-        AddressBook emp = new AddressBook();
-        emp.setId(1);
-        emp.setName("arif");
-        emp.setAddress("depok");
-        session.save(emp);
-        tx.commit();
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    public String getUsername() {
+        return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
     }
 }
