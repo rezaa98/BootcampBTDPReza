@@ -8,10 +8,10 @@
 		<version>2.7.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.latihan.spring</groupId>
-	<artifactId>LatihanSpringBootStrap</artifactId>
+	<groupId>com.belajar.spring</groupId>
+	<artifactId>BelajarSpringBootStrap</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>LatihanSpringBootStrap</name>
+	<name>BelajarSpringBootStrap</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
@@ -42,12 +42,6 @@
 			<artifactId>bootstrap</artifactId>
 			<version>4.2.1</version>
 		</dependency>
-		
-		<dependency>
-			<groupId>org.flywaydb</groupId>
-			<artifactId>flyway-core</artifactId>
-		</dependency>
-		
 	</dependencies>
 
 	<build>

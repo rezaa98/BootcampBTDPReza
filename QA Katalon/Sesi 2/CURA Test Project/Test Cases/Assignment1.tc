@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test dengan alur Login, Book an Appointment, Check if Appointment Succesfully, logout</description>
+   <name>Assignment1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3a08cd8-690d-426c-afea-220b66e9f032</testCaseGuid>
+</TestCaseEntity>
