@@ -38,8 +38,8 @@ Acceptance test adalah tahap uji terakhir pada functional testing level. Tahap i
 
 ### Kapang sih pakai Manual atau Automation?
 #### Manual Testing
-<b>Exploratory Testing</b>
+- <b>Exploratory Testing</b>
 Sangat membutuhkan pengetahuan seorang tester analitikal/logika skil, kreatifitas, dan intuisi
-<b>Usability Testing</b> Area ini dibutuhkan untuk melakukan pengecekan user-friendly, efisien, ataupun kenyamanan untuksoftware atau produk untuk end users
-<b>Ad-hoc Testing</b>
+- <b>Usability Testing</b> Area ini dibutuhkan untuk melakukan pengecekan user-friendly, efisien, ataupun kenyamanan untuksoftware atau produk untuk end users
+- <b>Ad-hoc Testing</b>
 Skenario ini dilakukan tanpa persiapan atau tidak menuliskan test case, sehingga QA secara acakmelakukan tes pada fugnsi di sistem. Dimana tujuannya adalah untuk secara kreatif untuk “Merusak” sistem danmencari kesalahan
