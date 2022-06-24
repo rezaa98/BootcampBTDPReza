@@ -11,7 +11,7 @@ Untuk melakuan download Katalon Studio Enterprise dapat dilakukan dengan mengaks
     https://katalon.com/download/
 
 2. Selanjutnya melakukan instalasi Katalon, lalu memilih direktori yang akan di letakkan <b>Katalon</b>
-https://docs.katalon.com/81d2ff80-e2f0-11ec-a2dc-0242fe3e4a3f.png
+![Instalasi Katalon 1](https://docs.katalon.com/81d2ff80-e2f0-11ec-a2dc-0242fe3e4a3f.png.jpg?raw=true "Katalon Instalasi 1")
 
 ## Tools yang digunakan
 - Katalon Studio Enterprise
