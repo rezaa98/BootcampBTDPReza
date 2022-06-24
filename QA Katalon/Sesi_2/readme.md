@@ -10,8 +10,12 @@ salah satu aplikasi testing otomatis yang bernama <b>Katalon</b>. nah Katalon in
 Untuk melakuan download Katalon Studio Enterprise dapat dilakukan dengan mengakses website berikut
     https://katalon.com/download/
 
-2. Selanjutnya melakukan instalasi Katalon, lalu memilih direktori yang akan di letakkan <b>Katalon</b>
+2. Setelah melakukan download katalon.zip file, ekstrak data tersebut ke path yang diinginkan
 ![Instalasi Katalon 1](https://docs.katalon.com/81d2ff80-e2f0-11ec-a2dc-0242fe3e4a3f.png?raw=true "Katalon Instalasi 1")
+
+3. Untuk menjalankan Katalon Studio klik dua kali pada Katalon.exe
+![Instalasi Katalon 2](https://docs.katalon.com/81dc0030-e2f0-11ec-a2dc-0242fe3e4a3f.png?raw=true "Instalasi Katalon 2")
+
 
 ## Tools yang digunakan
 - Katalon Studio Enterprise
