@@ -14,10 +14,10 @@
 
 ## Jenis Testing
 ### Black Box Testing
-    Metode pengujian Perangkat Lunak yang digunakan untuk menguji perangkat lunak tanpamengetahui struktur internal kode atau Program.
+Metode pengujian Perangkat Lunak yang digunakan untuk menguji perangkat lunak tanpamengetahui struktur internal kode atau Program.
 
 ### White Box Testing
-    Metode pengujian Perangkat Lunak yang digunakan untuk menguji perangkat lunak dengan cara melihat moduluntuk dapat meneliti dan menganalisa kode dari program yang dibuat ada yang salah atau tidak.
+Metode pengujian Perangkat Lunak yang digunakan untuk menguji perangkat lunak dengan cara melihat moduluntuk dapat meneliti dan menganalisa kode dari program yang dibuat ada yang salah atau tidak.
 
 ### Unit Testing
 Unit test merupakan testing level untuk menguji bagian software terkecil. Tujuan dilakukannya unit test ini yaitu untuk menemukan error lebih cepat sehingga dapat mengantisipasi error yang lebih kompleks dikemudian hari.
@@ -36,7 +36,7 @@ Acceptance test adalah tahap uji terakhir pada functional testing level. Tahap i
 - Manual Testing -> Teknik melakukan tes dengan menggunakan pengguna sebagai pelaku testingnya
 - Automation Testing -> Teknik melakukan tes dengan bantuan oleh sistem otomasi
 
-### Kapang sih pakai Manual atau Automation?
+### Kapan sih pakai Manual atau Automation?
 #### Manual Testing
 - <b>Exploratory Testing</b>
 Sangat membutuhkan pengetahuan seorang tester analitikal/logika skil, kreatifitas, dan intuisi
