@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\095093\Documents\GitHub\Assi\Rest"/>
+			<item value="C:\Users\095093\Downloads\springboot-simpleAPI-master\springboot-simpleAPI-master"/>
+			<item value="C:\Users\095093\Downloads\gs-crud-with-vaadin-main\gs-crud-with-vaadin-main\complete"/>
+		</list>
+	</section>
+</section>
