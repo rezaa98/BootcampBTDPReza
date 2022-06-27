@@ -1882,3 +1882,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration ASMifier references
 2022-06-25 14:43:50,018 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-06-25 14:43:50,018 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-06-25 14:43:50,018 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\095093\Documents\GitHub\Assi\Rest\src\test\resources
+2022-06-27 08:52:00,668 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
