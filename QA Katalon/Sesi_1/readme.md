@@ -1,4 +1,6 @@
 
+![picture alt](https://github.com/rezaa98/BootcampBTDPReza/blob/main/QA%20Katalon/Sesi_1/Katalon.jpeg "Sesi1")
+
 <h1> Pengenalan QA bakalan ngapain aja </h1>
 
 <p>Mempelajari apa itu testing dan mengenal jenis testing hingga bagaimana cara kerja automation testing. Installasi Katalon tools software dengan explorasi <b>GUI( Graphic User Interface)</b>. Pengenalan fitur dasar <b>Katalon</b> yaitu Record, Replay hingga Modify dan implementasi testing secara manual dan script mode dan di akhiri dengan test suite case per case sebagai pembelajaran utama, dan integrasi Katalon dengan beberapa automation server Jenkins hingga Source Control (GIT) & JIRA , peserta juga akan explorasi testing automation untuk API Development baik itu REST & SOAP dengan format XML & JSON dan Mobile Development untuk Android di Windows/Mac atau IoS di MacOS. </p>
