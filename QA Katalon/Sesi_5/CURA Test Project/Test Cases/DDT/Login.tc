@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b33b050-25b0-4871-bec9-0abe5350a6f7</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>9d5a936c-7b8a-4f50-b0f0-00f69bd074d0</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/datagesyak</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>9d5a936c-7b8a-4f50-b0f0-00f69bd074d0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>c5d3510b-a8f0-4a99-8d54-aa917bdc0fdf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>9d5a936c-7b8a-4f50-b0f0-00f69bd074d0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>143fd94d-e98d-423b-8604-24e71a044e06</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5d3510b-a8f0-4a99-8d54-aa917bdc0fdf</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>143fd94d-e98d-423b-8604-24e71a044e06</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
